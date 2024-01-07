@@ -1,0 +1,7 @@
+
+.cache/*
+.local/*
+.ipython/*
+.jupyter/*
+.ipynb_checkpoints/*
+.npm/*
