@@ -1,5 +1,7 @@
 # nyc-school-scores
 
+See full notebook [here](https://github.com/conorheffron/nyc-school-scores/blob/main/notebook.ipynb)
+
 > Start docker desktop  
 
 > Run the following command in local terminal to run local instance of docker with notebook / Python3 workspace:
